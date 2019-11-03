@@ -1,6 +1,6 @@
 # fbprophet
 
-![alt text](http://url/to/img.png)
+![Image of identifying outliers in fpprophet](https://github.com/zwelshman/fbprophet/blob/master/visualization.png)
 
 Development of anomaly detection with fbprophet library and a temperature based dataset with examples of cross validation.
 
